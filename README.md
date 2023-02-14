@@ -142,7 +142,7 @@
 <br/> 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/output/github-contribution-grid-snake.svg" align="center" height="" width="690" />
+<img src="https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/output/github-contribution-grid-snake.svg" align="center" height="" width="730" />
 </div>  
   
 
