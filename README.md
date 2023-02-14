@@ -24,7 +24,7 @@
 ## 💡 &nbsp;My Skill Set  
 
 <div align="center">  
-<a href="https://drive.google.com/file/d/1VmPR5QULflzSklM0mXXFCd5QSXkYo3H_/view" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/64469ef914cc9b3c2cffc33406b910d665902e9eda2b9bbb0b89f93dbdeb96d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d526573756d652d626c756576696f6c65743f7374796c653d706c6173746963" alt="Jenkins" height="50" /></a>  
+<a href="https://drive.google.com/file/d/1VmPR5QULflzSklM0mXXFCd5QSXkYo3H_/view" target="_blank"><img style="margin: 10px" src="https://github.com/Kaludii/Kaludii/blob/main/button_images/Resume_Button.png?raw=true" alt="Resume" height="45" style="margin-bottom: 5px;" /></a>  
 </div>
 
 <table><tr><td valign="top" width="33%">
@@ -115,19 +115,16 @@
 ## 🔗 &nbsp;Connect With Me  
 <div align="center">
 <a href="https://github.com/Kaludii" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://github.com/Kaludii/Kaludii/blob/main/button_images/Github_Button.png?raw=true alt=github height="45" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/bilal-kaludi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://github.com/Kaludii/Kaludii/blob/main/button_images/LinkedIn_Button.png?raw=true alt=linkedin height="45" style="margin-bottom: 5px;" />
 </a>
 <a href="https://huggingface.co/Kaludi" target="_blank">
-<img src=https://i.ibb.co/NFwRQxX/instagram-000000-svg.png alt=HuggingFace style="margin-bottom: 5px;" />
+<img src=https://github.com/Kaludii/Kaludii/blob/main/button_images/HF_Button.png?raw=true alt=HuggingFace height="45" style="margin-bottom: 5px;" />
 </a>  
-<!--<a href="mailto: email@bilalkaludi.com" target="_blank">
-<img src=https://github.com/valtlai/gmail-button/raw/main/assets/icon.svg alt=Email style="margin-bottom: 5px;" />
-</a>  -->
 <a href="mailto: email@bilalkaludi.com" target="_blank">
-<img src=https://kaludii.github.io/Portfolio-Site/files/email_button.png alt=Email height="45" style="margin-bottom: 5px;" />
+<img src=https://github.com/Kaludii/Kaludii/blob/main/button_images/Email_Button.png?raw=true alt=Email height="45" style="margin-bottom: 5px;" />
 </a>   
 </div>  
 
