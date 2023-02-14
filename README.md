@@ -22,6 +22,11 @@
 
 
 ## 💡 &nbsp;My Skill Set  
+
+<div align="center">  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
+</div>
+
 <table><tr><td valign="top" width="33%">
 
 
