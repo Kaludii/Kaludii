@@ -119,22 +119,15 @@
 <img src=https://i.ibb.co/NFwRQxX/instagram-000000-svg.png alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kaludii&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;Github Stats
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaludii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaludii&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
