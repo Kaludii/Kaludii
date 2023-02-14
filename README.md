@@ -123,9 +123,9 @@
 <a href="https://huggingface.co/Kaludi" target="_blank">
 <img src=https://i.ibb.co/NFwRQxX/instagram-000000-svg.png alt=HuggingFace style="margin-bottom: 5px;" />
 </a>  
-<a href="mailto: email@bilalkaludi.com" target="_blank">
-<img src=https://github.com/valtlai/gmail-button/raw/main/assets/icon.svg alt=Email style="margin-bottom: 5px;" />
-</a>  
+#<a href="mailto: email@bilalkaludi.com" target="_blank">
+#<img src=https://github.com/valtlai/gmail-button/raw/main/assets/icon.svg alt=Email style="margin-bottom: 5px;" />
+#</a>  
 </div>  
 
 <br/>  
