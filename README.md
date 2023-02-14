@@ -3,30 +3,30 @@
 </div>  
   
 
-### <div align="center">Hello! I'm Bilal, a full-time Data Analyst at Northshore Clinical Labs 👨‍💻 working remotely. I am also currently a Data Science student at Northwestern University and Machine Learning Enthusiast.</div>  
+### <div align="center">Hello! I'm Bilal, a full-time Data Analyst at Northshore Clinical Labs 👨‍💻 working remotely. I am also currently a Data Science student at Northwestern University 👨‍🎓 and Machine Learning Enthusiast. 🤖</div>  
   
 
-- 🔭 I’m currently working on [Food-Category-Classification_And_Recipes](https://github.com/Kaludii/Food-Category-Classification_And_Recipes) for my Final Project in the Data Science Program.  
+- 🛠️ I’m currently working on [Food-Category-Classification_And_Recipes](https://github.com/Kaludii/Food-Category-Classification_And_Recipes) for my Final Project in the Data Science Program.  
   
 
-- 🌱 I’m currently learning Streamlit and how it can help to quickly make WebUI's.  
+- 🧠 I’m currently learning Streamlit and how it can help to quickly make WebUI's.  
   
 
 - ❓ Ask me about anything related to Python, Streamlit, game development in Unreal Engine 5, working with Big Data or Machine Learning Models!  
   
 
-- ⚡ Fun fact: I trained my own Stable Diffusion Model that surpassed my expectations. You can find the model and view details [here](https://huggingface.co/Kaludi/ARTificialJourney-v1.0-768)!  
+- ℹ Fun fact: I trained my own Stable Diffusion Model that surpassed my expectations. You can find the model and view details [here](https://huggingface.co/Kaludi/ARTificialJourney-v1.0-768)!  
   
 
 <br/>  
 
 
-## My Skill Set  
+## 💡 &nbsp;My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+### 👨‍💻 &nbsp;Frontend  
 <div align="center">  
 <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" height="50" /></a>
 <a href="gradio.app" target="_blank"><img style="margin: 10px" src="https://gradio.app/assets/gradio.svg" alt="Gradio" height="50" /></a>   
@@ -40,7 +40,7 @@
 
 
 
-### Cloud Platforms & DevOps/Tools  
+### 🛠️ &nbsp;Cloud Platforms & DevOps/Tools  
 <div align="center">  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -54,7 +54,7 @@
 
 
 
-### Backend  
+### 🔙 &nbsp;Backend  
 <div align="center">  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -70,7 +70,7 @@
 
 
 
-### Data Visualization  
+### 📊 &nbsp;Data Visualization  
 <div align="center">  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
@@ -80,7 +80,7 @@
 
 
 
-### Programming Languages  
+### ‍💻 &nbsp;Programming Languages  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -91,7 +91,7 @@
 <br/>  
 <br/>  
 
-### Design  
+### 🎨 &nbsp;Design  
 <div align="center">  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
@@ -107,7 +107,7 @@
 <br/>  
 
 
-## Connect with me  
+## 🔗 &nbsp;Connect With Me  
 <div align="center">
 <a href="https://github.com/Kaludii" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
