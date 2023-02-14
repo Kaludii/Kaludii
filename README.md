@@ -86,7 +86,7 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
 </div>  
 
-
+<br/>  
 
 ### Design  
 <div align="center">  
