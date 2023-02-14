@@ -26,7 +26,7 @@
 <div align="center">  
 <a href="https://drive.google.com/file/d/1VmPR5QULflzSklM0mXXFCd5QSXkYo3H_/view" target="_blank"><img style="margin: 10px" src="https://github.com/Kaludii/Kaludii/blob/main/button_images/Resume_Button.png?raw=true" alt="Resume" height="45" style="margin-bottom: 5px;" /></a>  
 </div>
-
+<br/>
 <table><tr><td valign="top" width="33%">
 
 
