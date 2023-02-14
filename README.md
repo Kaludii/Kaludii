@@ -123,9 +123,9 @@
 <a href="https://huggingface.co/Kaludi" target="_blank">
 <img src=https://i.ibb.co/NFwRQxX/instagram-000000-svg.png alt=HuggingFace style="margin-bottom: 5px;" />
 </a>  
-#<a href="mailto: email@bilalkaludi.com" target="_blank">
-#<img src=https://github.com/valtlai/gmail-button/raw/main/assets/icon.svg alt=Email style="margin-bottom: 5px;" />
-#</a>  
+<!--<a href="mailto: email@bilalkaludi.com" target="_blank">
+<img src=https://github.com/valtlai/gmail-button/raw/main/assets/icon.svg alt=Email style="margin-bottom: 5px;" />
+</a>  -->
 </div>  
 
 <br/>  
@@ -133,7 +133,7 @@
 ## ⚙️ &nbsp;Github Stats
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Kaludii">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaludii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaludii&layout=compact&langs_count=8&theme=algolia"/>
 </a>
