@@ -127,7 +127,7 @@
 <img src=https://github.com/valtlai/gmail-button/raw/main/assets/icon.svg alt=Email style="margin-bottom: 5px;" />
 </a>  -->
 <a href="mailto: email@bilalkaludi.com" target="_blank">
-<img src=https://kaludii.github.io/Portfolio-Site/files/email_button.png alt=HuggingFace height="60" style="margin-bottom: 5px;" />
+<img src=https://kaludii.github.io/Portfolio-Site/files/email_button.png alt=Email height="45" style="margin-bottom: 5px;" />
 </a>   
 </div>  
 
