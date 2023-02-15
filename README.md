@@ -6,7 +6,7 @@
 ### <div align="center">Hello! I'm Bilal, a full-time Data Analyst at Northshore Clinical Labs 👨‍💻 working remotely. I am also currently a Data Science student at Northwestern University 👨‍🎓 and Machine Learning Enthusiast. 🤖</div>  
   
 
-- 🛠️ I’m currently working on [Food-Category-Classification_And_Recipes](https://github.com/Kaludii/Food-Category-Classification_And_Recipes) for my Final Project in the Data Science Program.  
+- 🛠️ I’m currently working on [curated-cuisine-coalition](https://github.com/NebulaCrasher/curated-cuisine-coalition) for my Final Project in the Data Science Program.  
   
 
 - 🧠 I’m currently learning Streamlit and how it can help to quickly make WebUI's.  
