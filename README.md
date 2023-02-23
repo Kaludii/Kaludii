@@ -1,8 +1,6 @@
-<div align="center">
-<img src="https://i.ibb.co/JKgttfD/output-onlinegiftools.gif" align="center" style="width: 100%" />
-</div>  
-  
+https://user-images.githubusercontent.com/63890666/221020043-32b4803a-be5d-4239-bd7b-2f9e547c9039.mp4
 
+  
 ### <div align="center">Hello! I'm Bilal, a full-time Data Analyst at Northshore Clinical Labs 👨‍💻 working remotely. I am also currently a Data Science student at Northwestern University 👨‍🎓 and Machine Learning Enthusiast. 🤖</div>  
   
 
