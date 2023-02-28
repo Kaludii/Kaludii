@@ -1,10 +1,10 @@
 https://user-images.githubusercontent.com/63890666/221020043-32b4803a-be5d-4239-bd7b-2f9e547c9039.mp4
 
   
-### <div align="center">Hello! I'm Bilal, a full-time Data Analyst at Northshore Clinical Labs 👨‍💻 working remotely. I am also currently a Data Science student at Northwestern University 👨‍🎓 and Machine Learning Enthusiast. 🤖</div>  
+### <div align="center">Hello! I'm Bilal, a full-time Data Analyst at Northshore Clinical Labs 👨‍💻 working remotely. I am also a recent graduate of Northwestern University's Data Science Data Science Program 👨‍🎓 and Machine Learning Enthusiast. Solving problems one line of code at a time, and one pun at a time. 🤖</div>  
   
 
-- 🛠️ I’m currently working on [curated-cuisine-coalition](https://github.com/NebulaCrasher/curated-cuisine-coalition) for my Final Project in the Data Science Program.  
+- 🛠️ I just completed working on [curated-cuisine-coalition](https://github.com/NebulaCrasher/curated-cuisine-coalition) for my Final Project in the Data Science Program.  
 
 
 - 🧠 I’m currently learning Streamlit and how it can help to quickly make WebUI's.  
