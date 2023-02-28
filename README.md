@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/63890666/221020043-32b4803a-be5d-4239-
 
 <div align="center">  
 <a href="https://github.com/Kaludii?tab=repositories" target="_blank"><img style="margin: 10px" src="https://github.com/Kaludii/Kaludii/blob/main/button_images/Portfolio_Button.png?raw=true" alt="Portfolio" height="45" style="margin-bottom: 5px;" /></a>  
-<a href="https://drive.google.com/file/d/1VmPR5QULflzSklM0mXXFCd5QSXkYo3H_/view" target="_blank"><img style="margin: 10px" src="https://github.com/Kaludii/Kaludii/blob/main/button_images/Resume_Buttonv2.png?raw=true" alt="Resume" height="45" style="margin-bottom: 5px;" /></a> 
+<a href="https://drive.google.com/file/d/15OOVX-qhW1jjSW7ILBNeqTYCGnAme-BY/preview" target="_blank"><img style="margin: 10px" src="https://github.com/Kaludii/Kaludii/blob/main/button_images/Resume_Buttonv2.png?raw=true" alt="Resume" height="45" style="margin-bottom: 5px;" /></a> 
 </div>
 <br/>
 <table><tr><td valign="top" width="33%">
