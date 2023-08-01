@@ -141,7 +141,7 @@ https://user-images.githubusercontent.com/63890666/221020043-32b4803a-be5d-4239-
 <br/> 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" align="center" height="" width="1000" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" align="center" height="" width="1000" />
 </div>  
   
 
