@@ -1,7 +1,7 @@
 https://user-images.githubusercontent.com/63890666/221020043-32b4803a-be5d-4239-bd7b-2f9e547c9039.mp4
 
   
-### <div align="center">Hello! I'm a Master's student in Data Science at San Diego State University and a Visiting Research Data Scientist at University of Illinois Chicago working on a DOE-funded project in collaboration with Argonne Lab. I am also a recent graduate of Northwestern University's Data Science Boot Camp and a Machine Learning Enthusiast. Solving problems one line of code at a time, and one pun at a time.</div>  
+### <div align="center">Hello! I'm a Master's student in Data Science at San Diego State University and a Visiting Research Data Scientist at University of Illinois Chicago working on a DOE-funded project in collaboration with Argonne Lab. I am also a recent graduate of Northwestern University's Data Science Boot Camp and a Machine Learning Enthusiast. Transforming data into insights, one line of code at a time.</div>  
   
 
 - 🔬 I'm currently working on an exciting DOE-funded research project at UIC in collaboration with Argonne Lab.  
