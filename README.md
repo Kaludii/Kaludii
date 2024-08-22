@@ -1,13 +1,13 @@
 https://user-images.githubusercontent.com/63890666/221020043-32b4803a-be5d-4239-bd7b-2f9e547c9039.mp4
 
   
-### <div align="center">Hello! I'm Bilal, a full-time Data Analyst at Northshore Clinical Labs 👨‍💻 working remotely. I am also a recent graduate of Northwestern University's Data Science Data Science Program 👨‍🎓 and Machine Learning Enthusiast. Solving problems one line of code at a time, and one pun at a time. 🤖</div>  
+### <div align="center">Hello! I'm a Master's student in Data Science at San Diego State University and a Visiting Research Data Scientist at University of Illinois Chicago working on a DOE-funded project in collaboration with Argonne Lab. I am also a recent graduate of Northwestern University's Data Science Boot Camp and a Machine Learning Enthusiast. Solving problems one line of code at a time, and one pun at a time.</div>  
   
 
-- 🛠️ I just completed working on [curated-cuisine-coalition](https://github.com/NebulaCrasher/curated-cuisine-coalition) for my Final Project in the Data Science Program.  
+- 🔬 I'm currently working on an exciting DOE-funded research project at UIC in collaboration with Argonne Lab.  
 
 
-- 🧠 I’m currently learning Streamlit and how it can help to quickly make WebUI's.  
+- 🧠 I’m currently expanding my skills by learning Java and React.js.  
   
 
 - ❓ Ask me about anything related to Python, Streamlit, game development in Unreal Engine 5, working with Big Data or Machine Learning Models!  
@@ -23,7 +23,6 @@ https://user-images.githubusercontent.com/63890666/221020043-32b4803a-be5d-4239-
 
 <div align="center">  
 <a href="https://github.com/Kaludii?tab=repositories" target="_blank"><img style="margin: 10px" src="https://github.com/Kaludii/Kaludii/blob/main/button_images/Portfolio_Button.png?raw=true" alt="Portfolio" height="45" style="margin-bottom: 5px;" /></a>  
-<a href="https://drive.google.com/file/d/1VmPR5QULflzSklM0mXXFCd5QSXkYo3H_/preview" target="_blank"><img style="margin: 10px" src="https://github.com/Kaludii/Kaludii/blob/main/button_images/Resume_Buttonv2.png?raw=true" alt="Resume" height="45" style="margin-bottom: 5px;" /></a> 
 </div>
 <br/>
 <table><tr><td valign="top" width="33%">
@@ -116,14 +115,8 @@ https://user-images.githubusercontent.com/63890666/221020043-32b4803a-be5d-4239-
 <a href="https://github.com/Kaludii" target="_blank">
 <img src=https://github.com/Kaludii/Kaludii/blob/main/button_images/Github_Button.png?raw=true alt=github height="45" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/bilal-kaludi" target="_blank">
-<img src=https://github.com/Kaludii/Kaludii/blob/main/button_images/LinkedIn_Button.png?raw=true alt=linkedin height="45" style="margin-bottom: 5px;" />
-</a>
 <a href="https://huggingface.co/Kaludi" target="_blank">
 <img src=https://github.com/Kaludii/Kaludii/blob/main/button_images/HF_Button.png?raw=true alt=HuggingFace height="45" style="margin-bottom: 5px;" />
-</a>  
-<a href="mailto: email@bilalkaludi.com" target="_blank">
-<img src=https://github.com/Kaludii/Kaludii/blob/main/button_images/Email_Button.png?raw=true alt=Email height="45" style="margin-bottom: 5px;" />
 </a>   
 </div>  
 
